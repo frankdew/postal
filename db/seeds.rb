@@ -1,4 +1,4 @@
-ost.delete_all
+Post.delete_all
 
 Post.create( content: "Pizza is yummy!"                    )
 Post.create( content: "Veggies are tasty and nutritious."  )
